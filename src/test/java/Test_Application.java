@@ -1,0 +1,11 @@
+import org.junit.Assert;
+import org.junit.Test;
+
+
+public class Test_Application {
+
+    @Test
+    public void test1(){
+        System.out.println("running test 1");
+    }
+}
